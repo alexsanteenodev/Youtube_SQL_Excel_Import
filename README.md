@@ -1,6 +1,6 @@
 # YouTube SQL Excel Import Tutorial
 
-This repository contains all the files used in my YouTube tutorial on setting up a local SQL database, importing Excel data, and running queries without coding skills.
+This repository contains all the files used in my [YouTube tutorial](https://www.youtube.com/watch?v=7MdFiF5CeOM) on setting up a local SQL database, importing Excel data, and running queries without coding skills.
 
 ## Overview
 
@@ -74,7 +74,7 @@ The database consists of three related tables:
 
 ## Video Tutorial
 
-For a complete walkthrough, watch the full tutorial on YouTube where I demonstrate each step in detail.
+For a complete walkthrough, watch the full tutorial on [YouTube](https://www.youtube.com/watch?v=7MdFiF5CeOM) where I demonstrate each step in detail.
 
 ---
 
